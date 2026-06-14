@@ -82,8 +82,6 @@ A curated list of professional **Open Source Alternatives** to proprietary softw
 | **VS Code (Proprietary)** | [VSCodium](https://vscodium.com/ ) | Free/Libre Open Source Software Binaries of VS Code. |
 | **Firebase** | [Supabase](https://supabase.com/ ) | The open source Firebase alternative. |
 
-## My Recommend
-
 ---
 
 ## Contributing
